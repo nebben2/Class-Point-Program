@@ -10,3 +10,5 @@ e.g. Reaching -5 points would display what is written in NegativeFiveOutput.prop
 * If it doesn't work download the latest version of java at: https://java.com/en/download/
 
 * And if that doesn't work tell me and I'll try to fix the issue just please be aware that the project is in alpha and so bugs are inevitable
+
+*Please visit my project portfolio at: https://bensprojectpage.wordpress.com
